@@ -1,11 +1,19 @@
-![Banner](https://github.com/Hassan-2305/Hassan-2305/blob/main/Banner.png?raw=true)
-## Hi there 👋
+<p align="center">
+  <img
+    src="https://github.com/Hassan-2305/Hassan-2305/blob/main/Banner.png?raw=true"
+    width="100%"
+  />
+</p>
+
+
+
 
 <h1 align="center">Hi 👋, I'm Hassan</h1>
 <h3 align="center">Frontend Developer • UI/UX Intern • CS Student @ CUSAT</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=500&lines=Frontend+Developer;UI%2FUX+Designer;Building+Real+World+Projects;Learning+Everyday" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=500&lines=Frontend+Developer;UI%2FUX+Designer;Building+Real+World+Products;Learning+Everyday" />
+
 </p>
 
 ---
@@ -20,7 +28,8 @@
 
 ## 🛠 Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,figma,git,github" />
+ <img src="https://skillicons.dev/icons?i=html,css,js,react,figma,python,git,github" />
+
 </p>
 
 ---
@@ -46,9 +55,10 @@ Designed & developed modern UI for a tech event
 
 ## 🌐 Connect With Me
 <p align="left">
-  <a href="https://linkedin.com" target="_blank">LinkedIn</a> •
-  <a href="mailto:yourmail@gmail.com">Email</a> •
-  <a href="#">Portfolio</a>
+<a href="https://www.linkedin.com/in/mohamhassan/">LinkedIn</a> •
+<a href="mailto:mohammedhassan2305@gmail.com">Email</a>
+
+
 </p>
 ![](https://komarev.com/ghpvc/?username=Hassan-2305&color=blue)
 
