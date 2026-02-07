@@ -1,4 +1,4 @@
-![Banner](https://github.com/Hassan-2305/Hassan-2305/blob/main/img.png?raw=true)
+![Banner](https://github.com/Hassan-2305/Hassan-2305/blob/main/img.png)
 ## Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Hassan</h1>
