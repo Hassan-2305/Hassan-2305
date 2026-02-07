@@ -1,9 +1,5 @@
-<p align="center">
-  <img
-    src="https://github.com/Hassan-2305/Hassan-2305/blob/main/Banner.png?raw=true"
-    width="100%"
-  />
-</p>
+![Banner](https://i.ibb.co/LD0M86xG/Banner.png)
+
 
 
 
