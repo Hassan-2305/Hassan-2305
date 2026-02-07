@@ -43,18 +43,23 @@ Designed & developed modern UI for a tech event
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hassan-2305&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hassan-2305&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Hassan-2305&show_icons=true&theme=tokyonight&cache_seconds=86400&include_all_commits=true&count_private=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hassan-2305&theme=tokyonight&hide_border=true" height="160"/>
 </p>
+
+
 
 ---
 
 ## 🌐 Connect With Me
 <p align="left">
-<a href="https://www.linkedin.com/in/mohamhassan/">LinkedIn</a> •
-<a href="mailto:mohammedhassan2305@gmail.com">Email</a>
-
-
+  <a href="https://www.linkedin.com/in/mohamhassan/">LinkedIn</a> •
+  <a href="mailto:mohammedhassan2305@gmail.com">Email</a><br/>
 </p>
+
+
+
+
+
 ![](https://komarev.com/ghpvc/?username=Hassan-2305&color=blue)
 
