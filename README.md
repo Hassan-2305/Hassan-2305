@@ -31,10 +31,6 @@
 ---
 
 ## 🌟 Featured Projects
-### 🔹 AI Resume Tailor
-AI-powered system that customizes resumes for jobs & internships  
-**Tech:** React, NLP, Automation  
-
 ### 🔹 UI/UX Event Platform
 Designed & developed modern UI for a tech event  
 **Tech:** Figma, React  
