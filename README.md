@@ -11,7 +11,7 @@
 
 <br />
 
-I'm a second-year CSE student at **CUSAT** in Kochi. Right now I'm teaching a model to transcribe **Malayalam legal speech**, finding manufacturing suppliers with LLM pipelines, and leading the dev team at my department's student association. Before that I shipped a packaging marketplace, a trading platform, and websites for the clubs I'm part of.
+I'm a CSE student at **CUSAT** in Kochi. Right now I'm teaching a model to transcribe **Malayalam legal speech**, finding manufacturing suppliers with LLM pipelines, and leading the dev team at my department's student association. Before that I shipped a packaging marketplace, a trading platform, and websites for the clubs I'm part of.
 
 ### 💼 Where I'm working
 
